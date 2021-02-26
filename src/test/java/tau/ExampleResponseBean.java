@@ -5,8 +5,8 @@ import java.time.LocalDateTime;
 public class ExampleResponseBean {
 
     static class Attributes {
-        private String title;
-
+        
+    	private String title;
         private String body;
         private int readerCount;
 
